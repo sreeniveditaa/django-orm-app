@@ -5,7 +5,8 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram
 
-![Alt text](er.png)
+![image](https://github.com/sreeniveditaa/django-orm-app/assets/147473268/993419c5-894b-4f41-84cb-6230b878b54f)
+
 
 ## DESIGN STEPS
 
@@ -58,8 +59,8 @@ class Studentadmin(admin.ModelAdmin):
     ```
 
 ## OUTPUT
+![image](https://github.com/sreeniveditaa/django-orm-app/assets/147473268/83afaf77-240b-4d91-8723-15e19815d5bf)
 
-![Alt text](OUTPUT.png)
 
 ## RESULT
 The program for creating a student database using ORM is executed successfully
