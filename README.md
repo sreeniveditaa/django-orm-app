@@ -59,7 +59,7 @@ class Studentadmin(admin.ModelAdmin):
     ```
 
 ## OUTPUT
-![image](https://github.com/sreeniveditaa/django-orm-app/assets/147473268/83afaf77-240b-4d91-8723-15e19815d5bf)
+![image](https://github.com/sreeniveditaa/django-orm-app/assets/147473268/ce930f44-6d34-402c-ab56-958da316abce)
 
 
 ## RESULT
