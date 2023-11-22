@@ -56,11 +56,9 @@ class Student (models.Model):
 class Studentadmin(admin.ModelAdmin):
     list_display=('referencenumber','name','age','email','phoneno')
 
-    ```
+ ```
+### OUTPUT
+![OUTPUT](https://github.com/sreeniveditaa/django-orm-app/assets/147473268/ada14b31-38f4-4265-b234-84c8dff8d1af)
 
-## OUTPUT
-![image](https://github.com/sreeniveditaa/django-orm-app/assets/147473268/ce930f44-6d34-402c-ab56-958da316abce)
-
-
-## RESULT
-The program for creating a student database using ORM is executed successfully
+### RESULT
+The django orm app has been created successfully.
